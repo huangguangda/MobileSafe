@@ -15,7 +15,6 @@ import android.support.annotation.Nullable;
 import android.util.Log;
 import android.view.Window;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.lidroid.xutils.HttpUtils;
 import com.lidroid.xutils.exception.HttpException;
