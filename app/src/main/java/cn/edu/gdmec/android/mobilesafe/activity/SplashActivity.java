@@ -43,7 +43,6 @@ import cn.edu.gdmec.android.mobilesafe.utils.ToastUtil;
 
 public class SplashActivity extends Activity {
     protected static final String tag = "SplashActivity";
-
     /*
     * 更新新版本的状态码
     * */
@@ -401,7 +400,6 @@ public class SplashActivity extends Activity {
         } catch (PackageManager.NameNotFoundException e) {
             e.printStackTrace();
         }
-
         return null;
     }
 

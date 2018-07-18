@@ -10,7 +10,6 @@ import android.widget.Toast;
  */
 
 public class ToastUtil {
-
     //打印吐司
     /*
      * 上下文环境，吐司内容，可以传递吐司时间 0为短，1为长
@@ -18,5 +17,4 @@ public class ToastUtil {
     public static void show(Context ctx,String msg){
         Toast.makeText(ctx,msg,Toast.LENGTH_SHORT).show();
     }
-
 }

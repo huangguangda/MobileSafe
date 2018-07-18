@@ -11,11 +11,9 @@ import java.io.InputStream;
  */
 
 public class StreamUtil {
-
     /*
     * @param 流对象
     * @return 流转换成字符串 返回Null代表异常
-    *
     * */
     public static String streamToString(InputStream is) {
         //1.在读取的过程中，将读取的内容存储 缓存中，然后一次性的转换成字符串返回
@@ -40,7 +38,6 @@ public class StreamUtil {
                 e.printStackTrace();
             }
         }
-
         return null;
     }
 }
