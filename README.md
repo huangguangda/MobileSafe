@@ -1,4 +1,4 @@
-# MobileSafe
+# MobileSafe -[可参考另一版本](https://github.com/huangguangda/DashuMobile)
 android手机卫士
 
 ## Github 欢迎 Star、Fork
